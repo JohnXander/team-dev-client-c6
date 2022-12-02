@@ -1,4 +1,6 @@
-### Team Dev Client
+# Cohort Manager (Team Project)
+
+### Server-Side App: https://github.com/JohnXander/team-dev-server-c6
 
 Client repository for team dev project.
 
